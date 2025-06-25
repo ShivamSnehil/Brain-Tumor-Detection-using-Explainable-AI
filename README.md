@@ -97,8 +97,6 @@ To interpret model predictions, **Grad-CAM (Gradient-weighted Class Activation M
 
 ### Tools:
 - Google Colab (for training with GPU)
-- TQDM (for progress bars)
-
 ---
 
 ## 📁 Repository Structure

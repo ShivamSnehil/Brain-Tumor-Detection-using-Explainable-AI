@@ -103,7 +103,7 @@ To interpret model predictions, **Grad-CAM (Gradient-weighted Class Activation M
 
 - `code.ipynb` – Full pipeline: preprocessing, training, evaluation, and Grad-CAM
 - `Sample images of dataset/` – Sample input images from dataset
-- `Output samples/` – Grad-CAM output visualizations
+- `Output sample/` – Grad-CAM output visualizations
 
 ---
 
